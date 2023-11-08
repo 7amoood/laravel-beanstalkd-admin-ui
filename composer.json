@@ -32,7 +32,7 @@
             "Dionera\\BeanstalkdUI\\": "src/"
         }
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "dev-master",
     "prefer-stable": true,
     "scripts": {
         "post-install-cmd": [
